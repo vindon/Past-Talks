@@ -8,15 +8,23 @@ ____
 
 ### May
 
-* May 12th
-
-  [Introduction to Scikit-Learn Workflow (custom transformers/estimators/pipelines)](https://github.com/SethPaul/scikitFlowDemo) - Seth Paul
-
 * May 26th (Big Data Utah Meetup)
 
   Introduction to Machine Learning - Max Goff
 
+* May 12th
+
+  [Introduction to Scikit-Learn Workflow (custom transformers/estimators/pipelines)](https://github.com/SethPaul/scikitFlowDemo) - Seth Paul
+
+
 ### April
+
+  * April 28th  
+
+    [A Walkthrough for One's First Kaggle Competition](https://github.com/arogers1/uc_data_science_meetup/blob/master/notebooks/titanic/Titanic.ipynb) - Adam Rogers
+
+    [Titanic Challenge](https://www.kaggle.com/c/titanic)
+
   * April 14th
 
     Intro to K-Means Clustering - Jeff Potter
@@ -30,30 +38,26 @@ ____
     [A Tutorial on Clustering Algorithms - K-means](http://home.deib.polimi.it/matteucc/Clustering/tutorial_html/kmeans.html)
 
 
-  * April 28th  
-
-    [A Walkthrough for One's First Kaggle Competition](https://github.com/arogers1/uc_data_science_meetup/blob/master/notebooks/titanic/Titanic.ipynb) - Adam Rogers
-
-    [Titanic Challenge](https://www.kaggle.com/c/titanic)
 
 ### March
+
+  * March 24th
+
+    [Apply: Decision Trees](https://github.com/davidrichards/utah_data_science_meetups) - David Richards
+
   * March 10th
+
     Learn: Decision Trees - Jeff Potter
 
     [Grimm Scientist - Decision Trees](http://thegrimmscientist.com/2014/10/23/tutorial-decision-trees/)
 
     [(ML 2.1) Classification trees (CART) video](https://www.youtube.com/watch?v=p17C9q2M00Q)
 
-  * March 24th
-
-    [Apply: Decision Trees](https://github.com/davidrichards/utah_data_science_meetups) - David Richards
 
 ### February
-* February 11th
-
-  [Apply: Regression](https://gist.github.com/jpotts18/dac94dc9514172ce020c) - Jeff Potter
 
 * February 25th
+
   Intro to Pandas - Adam Rogers
 
   [Temporary Jupyter Notebook](https://tmp49.tmpnb.org/user/3VBtcckNOrxh/tree)
@@ -61,6 +65,10 @@ ____
   [Hernan Rojas's Learn Pandas](https://bitbucket.org/hrojas/learn-pandas)
 
   [Wes McKinney Pandas Intro 2012 3hr 16 min](https://www.youtube.com/watch?v=w26x-z-BdWQ)
+* February 11th
+
+  [Apply: Regression](https://gist.github.com/jpotts18/dac94dc9514172ce020c) - Jeff Potter
+
 
 ### January
 * January 28th
