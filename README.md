@@ -6,6 +6,12 @@ ____
 
 ## 2016
 
+### June
+
+* June 9th
+
+  [Intro to Data Exploration](https://github.com/Utah-Data-Science/data_exploration_toolkit) - David Richards
+
 ### May
 
 * May 26th (Big Data Utah Meetup)
