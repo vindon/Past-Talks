@@ -20,9 +20,6 @@ ____
   * http://www.cdc.gov/nchs/fastats/homicide.htm
   * https://www.fbi.gov/stats-services/crimestats
 
-
-  [Intro to Data Exploration]
-
 ### May
 
 * May 26th (Big Data Utah Meetup)
