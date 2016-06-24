@@ -12,6 +12,17 @@ ____
 
   [Intro to Data Exploration](https://github.com/Utah-Data-Science/data_exploration_toolkit) - David Richards
 
+* June 23rd
+
+  Using the [Data Exploration Toolkit](https://github.com/Utah-Data-Science/data_exploration_toolkit) from last week considering US crime and gun stats  - David Richards
+  Data -
+  * http://www.gunviolencearchive.org/reports/mass-shooting?page=5
+  * http://www.cdc.gov/nchs/fastats/homicide.htm
+  * https://www.fbi.gov/stats-services/crimestats
+
+
+  [Intro to Data Exploration]
+
 ### May
 
 * May 26th (Big Data Utah Meetup)
