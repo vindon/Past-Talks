@@ -6,6 +6,28 @@ ____
 
 ## 2016
 
+### September
+
+  * September 8th
+
+  Intro to Pandas - Seth Paul
+
+### August
+
+  * August 25th
+
+  Learn Python - Jeff Potter
+
+  * August 11th
+
+  [Feature Engineering Competition](https://bitbucket.org/blairj09/datascience/src/48aa90d78419/R/Shiny/FeatureEngineering/?at=master) - James Blair
+
+### July
+
+* July 14th
+
+  [Feature Engineering](https://trello.com/b/XriRrYwp/data-problem-checklist) - Matt Birdsall
+
 ### June
 
 * June 9th
