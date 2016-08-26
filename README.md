@@ -16,7 +16,7 @@ ____
 
   * August 25th
 
-  Learn Python - Jeff Potter
+  [Learn Python](https://gist.github.com/jpotts18/fb89b6b8dbfba46ae8b1a9d56d63d161) - Jeff Potter
 
   * August 11th
 
@@ -59,19 +59,19 @@ ____
 
     [A Walkthrough for One's First Kaggle Competition](https://github.com/arogers1/uc_data_science_meetup/blob/master/notebooks/titanic/Titanic.ipynb) - Adam Rogers
 
-    [Titanic Challenge](https://www.kaggle.com/c/titanic)
+    * [Titanic Challenge](https://www.kaggle.com/c/titanic)
 
   * April 14th
 
     Intro to K-Means Clustering - Jeff Potter
 
-    [(ML 16.1) K-means clustering (part 1) video](https://www.youtube.com/watch?v=0MQEt10e4NM)
+    * [(ML 16.1) K-means clustering (part 1) video](https://www.youtube.com/watch?v=0MQEt10e4NM)
 
-    [Sarah Guido - K-means Clustering with scikit-learn video](https://www.youtube.com/watch?v=-J9ZICyev5E)
+    * [Sarah Guido - K-means Clustering with scikit-learn video](https://www.youtube.com/watch?v=-J9ZICyev5E)
 
-    [Andrew Moore - K-means and Hierarchical Clustering](http://www.autonlab.org/tutorials/kmeans11.pdf)
+    * [Andrew Moore - K-means and Hierarchical Clustering](http://www.autonlab.org/tutorials/kmeans11.pdf)
 
-    [A Tutorial on Clustering Algorithms - K-means](http://home.deib.polimi.it/matteucc/Clustering/tutorial_html/kmeans.html)
+    * [A Tutorial on Clustering Algorithms - K-means](http://home.deib.polimi.it/matteucc/Clustering/tutorial_html/kmeans.html)
 
 
 
@@ -85,9 +85,9 @@ ____
 
     Learn: Decision Trees - Jeff Potter
 
-    [Grimm Scientist - Decision Trees](http://thegrimmscientist.com/2014/10/23/tutorial-decision-trees/)
+    * [Grimm Scientist - Decision Trees](http://thegrimmscientist.com/2014/10/23/tutorial-decision-trees/)
 
-    [(ML 2.1) Classification trees (CART) video](https://www.youtube.com/watch?v=p17C9q2M00Q)
+    * [(ML 2.1) Classification trees (CART) video](https://www.youtube.com/watch?v=p17C9q2M00Q)
 
 
 ### February
@@ -96,11 +96,11 @@ ____
 
   Intro to Pandas - Adam Rogers
 
-  [Temporary Jupyter Notebook](https://tmp49.tmpnb.org/user/3VBtcckNOrxh/tree)
+  * [Temporary Jupyter Notebook](https://tmp49.tmpnb.org/user/3VBtcckNOrxh/tree)
 
-  [Hernan Rojas's Learn Pandas](https://bitbucket.org/hrojas/learn-pandas)
+  * [Hernan Rojas's Learn Pandas](https://bitbucket.org/hrojas/learn-pandas)
 
-  [Wes McKinney Pandas Intro 2012 3hr 16 min](https://www.youtube.com/watch?v=w26x-z-BdWQ)
+  * [Wes McKinney Pandas Intro 2012 3hr 16 min](https://www.youtube.com/watch?v=w26x-z-BdWQ)
 * February 11th
 
   [Apply: Regression](https://gist.github.com/jpotts18/dac94dc9514172ce020c) - Jeff Potter
