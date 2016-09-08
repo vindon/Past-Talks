@@ -10,13 +10,19 @@ ____
 
   * September 8th
 
-  Intro to Pandas - Seth Paul
+  [Intro to Pandas](https://github.com/SethPaul/Pandas_Intro) - Seth Paul
+   * Resouces:
+     - [Pandas Cheatsheet](http://www.webpages.uidaho.edu/~stevel/504/Pandas%20DataFrame%20Notes.pdf) by Mark Graph
+     - [Pandas Cookbook](https://github.com/jvns/pandas-cookbook) by Julia Evans
+     - [SciPy 2015 and 2016 Pandas tutorial](https://github.com/jonathanrocher/pandas_tutorial) by Johnathan Rocher
+     - [PyCon 2012 "Data analysis in Python with pandas presentation"](https://www.youtube.com/watch?v=w26x-z-BdWQ) by Wes McMinney - [Resulting notebooks available](https://github.com/SethPaul/Pandas_Tutorial_from_PyCon2012_by_Wes_McKinney)
 
 ### August
 
   * August 25th
 
   [Learn Python](https://gist.github.com/jpotts18/fb89b6b8dbfba46ae8b1a9d56d63d161) - Jeff Potter
+- https://www.codecademy.com/learn/python
 
   * August 11th
 
@@ -37,6 +43,7 @@ ____
 * June 23rd
 
   Using the [Data Exploration Toolkit](https://github.com/Utah-Data-Science/data_exploration_toolkit) from last week considering US crime and gun stats  - David Richards
+
   Data -
   * http://www.gunviolencearchive.org/reports/mass-shooting?page=5
   * http://www.cdc.gov/nchs/fastats/homicide.htm
@@ -55,7 +62,7 @@ ____
 
 ### April
 
-  * April 28th  
+  * April 28th
 
     [A Walkthrough for One's First Kaggle Competition](https://github.com/arogers1/uc_data_science_meetup/blob/master/notebooks/titanic/Titanic.ipynb) - Adam Rogers
 
