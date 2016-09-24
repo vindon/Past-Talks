@@ -8,6 +8,17 @@ ____
 
 ### September
 
+  * September 22nd
+
+  Intro to XGBoost - Seth Paul, David Richards
+   * Resouces:
+     - Decision Tree Visual [R2D3's Visual Intro to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+     - [XGBoost Repo](https://github.com/dmlc/xgboost)
+     - [XGBoost Paper](http://dmlc.cs.washington.edu/data/pdf/XGBoostArxiv.pdf)
+     - [XGBoost Documentation](https://xgboost.readthedocs.io/en/latest/)
+     - [Docker file used for meetup](http://sethcpaul.com/wp-content/uploads/2016/09/xgboost_docker.txt)
+
+
   * September 8th
 
   [Intro to Pandas](https://github.com/SethPaul/Pandas_Intro) - Seth Paul
@@ -23,6 +34,7 @@ ____
 
   [Learn Python](https://gist.github.com/jpotts18/fb89b6b8dbfba46ae8b1a9d56d63d161) - Jeff Potter
 - https://www.codecademy.com/learn/python
+
 
   * August 11th
 
@@ -40,6 +52,7 @@ ____
 
   [Intro to Data Exploration](https://github.com/Utah-Data-Science/data_exploration_toolkit) - David Richards
 
+
 * June 23rd
 
   Using the [Data Exploration Toolkit](https://github.com/Utah-Data-Science/data_exploration_toolkit) from last week considering US crime and gun stats  - David Richards
@@ -55,6 +68,7 @@ ____
 
   Introduction to Machine Learning - Max Goff
 
+
 * May 12th
 
   [Introduction to Scikit-Learn Workflow (custom transformers/estimators/pipelines)](https://github.com/SethPaul/scikitFlowDemo) - Seth Paul
@@ -67,6 +81,7 @@ ____
     [A Walkthrough for One's First Kaggle Competition](https://github.com/arogers1/uc_data_science_meetup/blob/master/notebooks/titanic/Titanic.ipynb) - Adam Rogers
 
     * [Titanic Challenge](https://www.kaggle.com/c/titanic)
+
 
   * April 14th
 
@@ -88,6 +103,7 @@ ____
 
     [Apply: Decision Trees](https://github.com/davidrichards/utah_data_science_meetups) - David Richards
 
+
   * March 10th
 
     Learn: Decision Trees - Jeff Potter
@@ -108,6 +124,8 @@ ____
   * [Hernan Rojas's Learn Pandas](https://bitbucket.org/hrojas/learn-pandas)
 
   * [Wes McKinney Pandas Intro 2012 3hr 16 min](https://www.youtube.com/watch?v=w26x-z-BdWQ)
+
+
 * February 11th
 
   [Apply: Regression](https://gist.github.com/jpotts18/dac94dc9514172ce020c) - Jeff Potter
