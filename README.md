@@ -6,6 +6,32 @@ ____
 
 ## 2016
 
+### November 
+
+  * November 10th
+
+  Getting Answers While Data is Sparse Part 2 - David Richards
+
+
+### October
+
+  * October 27th
+
+   [Getting started with the ELK stack (aka Elastic Stack)](https://slack-files.com/files-pri-safe/T06S0D892-F2VGMP9EX/getting_started_with_elk_stack.pdf?c=1478363249-728307a8ceab76fe9720036450dfd2dc0932c1df) - Jeff Potter
+   * Resouces:
+     - [Logstash Demo](https://github.com/jpotts18/logstash-demo)
+     - [Earthquake data](kosho/ncedc-earthquakes)
+
+
+  * October 13th
+
+  Getting Answers While Data is Sparse Part 1 - David Richards
+   * Resouces:
+     - [MCMC sampling](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/)
+
+
+
+
 ### September
 
   * September 22nd
